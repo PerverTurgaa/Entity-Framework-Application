@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\kurs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\kurs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\kurs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\kurs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\kurs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\kurs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\data\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\data\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\controllers\\ogretmencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\controllers\\ogretmencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\controllers\\kurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\controllers\\kurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\kurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\kurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\models\\kursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\models\\kursviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogretmen\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogretmen\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogretmen\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogretmen\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogretmen\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogretmen\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogrenci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\ogrenci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\data\\kurskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\data\\kurskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\views\\kurskayit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\views\\kurskayit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\data\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\data\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\data\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\data\\ogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|c:\\users\\asus\\desktop\\entityframeworkcore\\entityframeworkcore\\migrations\\20240909190828_columnogretmenidrequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA962003-38D1-4840-96CC-5F04AAC0F918}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\migrations\\20240909190828_columnogretmenidrequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:14:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Kurs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Delete.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Kurs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:14:39.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\DataContext.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:14:26.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kurs.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Kurs.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Data\\Kurs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Kurs.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Data\\Kurs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:52:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\appsettings.json",
+              "RelativeToolTip": "EntityFrameworkCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T13:16:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:21:10.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OgretmenController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\OgretmenController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\OgretmenController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\OgretmenController.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Controllers\\OgretmenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:14:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:14:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Kurs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Kurs\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T21:46:51.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Kurs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Kurs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:12:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:12:14.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Kurs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Kurs\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Kurs\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:56:22.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KursController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\KursController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\KursController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\KursController.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Controllers\\KursController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA5wE4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:49:52.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KursViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Models\\KursViewModel.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Models\\KursViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Models\\KursViewModel.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Models\\KursViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:53:22.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240909190828_ColumnOgretmenIdRequired.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Migrations\\20240909190828_ColumnOgretmenIdRequired.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Migrations\\20240909190828_ColumnOgretmenIdRequired.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Migrations\\20240909190828_ColumnOgretmenIdRequired.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Migrations\\20240909190828_ColumnOgretmenIdRequired.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:08:29.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogretmen\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogretmen\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:21.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogretmen\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Delete.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogretmen\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogretmen\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogretmen\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogretmen\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogrenci\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogrenci\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:09.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:53:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\Ogrenci\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\Ogrenci\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\Ogrenci\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:52:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\KursKayit\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Views\\KursKayit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Views\\KursKayit\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkCore\\Views\\KursKayit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:50:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KursKayit.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\KursKayit.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Data\\KursKayit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\KursKayit.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Data\\KursKayit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:34:34.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Data\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Ogrenci.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Data\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:34:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Ogretmen.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Data\\Ogretmen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\EntityFrameworkCore\\EntityFrameworkCore\\Data\\Ogretmen.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Data\\Ogretmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:34:23.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

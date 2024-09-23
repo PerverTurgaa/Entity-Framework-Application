@@ -1,0 +1,13 @@
+﻿@model Ogretmen
+
+<p>
+    @Model.Ad @Model.Soyad isimli öğretmeni silmek istediğinize emin misiniz?
+
+   @*  cevabı form requestle gödnercez *@
+
+   <form asp-action="Delete" method="post">
+       <input type="hidden" name="id" value="@Model.OgretmenId" />
+       <button type="submit" class="btn btn-danger">Evet</button>
+       <a asp-action="Index" class="btn btn-primary">Hayır</a>
+   </form>
+</p>
